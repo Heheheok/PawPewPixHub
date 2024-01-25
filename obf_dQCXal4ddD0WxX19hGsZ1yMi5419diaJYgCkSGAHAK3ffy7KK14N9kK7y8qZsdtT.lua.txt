@@ -1,0 +1,1 @@
+_G.Name = "PawPewPixHub" -- Put You Name Script Here loadstring(Game:HttpGet"https://raw.githubusercontent.com/PNguyen0199/Script/main/Fai-Fao-Ver2.lua")()")()
